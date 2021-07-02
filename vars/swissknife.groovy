@@ -1,3 +1,3 @@
 def printName(name){
-	echo "${name}"
+	echo "${name} ${name} ${name}"
 }
